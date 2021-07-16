@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 16 17:06:22 2021
 
-@author: venka
+@author: gayathri
 """
 
 import random
